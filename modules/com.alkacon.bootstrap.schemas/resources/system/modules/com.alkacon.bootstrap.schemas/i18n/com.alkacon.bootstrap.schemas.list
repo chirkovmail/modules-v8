@@ -185,4 +185,94 @@
       <Value><![CDATA[Weiterlesen]]></Value>
     </Message>
   </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[bootstrap.list.message.new]]></Key>
+      <Value><![CDATA[Новый список, пожалуйста, отредактируйте!]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.list.message.edit]]></Key>
+      <Value><![CDATA[Отсутствует параметры конфигурации, пожалуйста, отредактируйте!]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.Title.help]]></Key>
+      <Value><![CDATA[Заголовок списка может быть скрыт в настройках.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.FilterQueries]]></Key>
+      <Value><![CDATA[Запросы фильтра]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.FilterQueries.help]]></Key>
+      <Value><![CDATA[Дополнительные запросы Solr фильтра <i>(используйте синтаксис, как: &amp;fq=fieldName:"term")</i>.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.SortOrder]]></Key>
+      <Value><![CDATA[Порядок сортировки]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.SortOrder.help]]></Key>
+      <Value><![CDATA[По возрастанию или по убыванию.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.RowCount]]></Key>
+      <Value><![CDATA[Количество]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.RowCount.help]]></Key>
+      <Value><![CDATA[Количество ресурсов для выборки.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.CreatePath]]></Key>
+      <Value><![CDATA[Путь для создания ресурсов]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.CreatePath.help]]></Key>
+      <Value><![CDATA[Путь для создания новых ресурсов, при использовании символа "+".]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.Link]]></Key>
+      <Value><![CDATA[Ссылка]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapList.Link.help]]></Key>
+      <Value><![CDATA[Необязательная ссылка отображаемая ниже записей списка.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapLink.Text]]></Key>
+      <Value><![CDATA[Текст]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapLink.Text.help]]></Key>
+      <Value><![CDATA[Отображаемый текст для ссылки.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapLink.URI]]></Key>
+      <Value><![CDATA[Целевая ссылка]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapLink.URI.help]]></Key>
+      <Value><![CDATA[Целевая ссылка.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.list.default.Title]]></Key>
+      <Value><![CDATA[Новый список]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.list.setting.hidetitle]]></Key>
+      <Value><![CDATA[Скрыть заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.list.value.asc]]></Key>
+      <Value><![CDATA[По возрастанию]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.list.value.desc]]></Key>
+      <Value><![CDATA[По убыванию]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.list.message.readmore]]></Key>
+      <Value><![CDATA[читать дальше]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>

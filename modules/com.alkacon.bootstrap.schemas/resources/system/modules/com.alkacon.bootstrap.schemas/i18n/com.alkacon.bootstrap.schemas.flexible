@@ -101,4 +101,54 @@
       <Value><![CDATA[Bitte bearbeiten Sie das flexible Element.]]></Value>
     </Message>
   </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[label.BootstrapFlexibleElement.Title]]></Key>
+      <Value><![CDATA[Заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapFlexibleElement.Title.help]]></Key>
+      <Value><![CDATA[Заголовок элемента "гибкого" контента. Он может быть скрыт в настройках.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapFlexibleElement.Choice]]></Key>
+      <Value><![CDATA[Элемент]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapFlexibleElement.Choice.help]]></Key>
+      <Value><![CDATA[Выберите тип "гибкого" контента для отображения.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapFlexibleElementChoice.Image]]></Key>
+      <Value><![CDATA[Изображение]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapFlexibleElementChoice.Image.help]]></Key>
+      <Value><![CDATA[Изображение, которое масштабируется до максимальной ширины столбца.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapFlexibleElementChoice.Text]]></Key>
+      <Value><![CDATA[Текст]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapFlexibleElementChoice.Text.help]]></Key>
+      <Value><![CDATA[Текст, который можно свободно редактировать. ]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapFlexibleElementChoice.Code]]></Key>
+      <Value><![CDATA[Код]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapFlexibleElementChoice.Code.help]]></Key>
+      <Value><![CDATA[Используйте для вставки HTML-кода или JavaScript.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.flexible.message.changed]]></Key>
+      <Value><![CDATA[Контент был изменен, пожалуйста, обновите страницу! ]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.flexible.message.edit]]></Key>
+      <Value><![CDATA[Пожалуйста, отредактируйте элемент.]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>

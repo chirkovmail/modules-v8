@@ -1,23 +1,29 @@
 {
 	"desktop": {
-		"niceName": "Desktop",
+		"niceName": {
+			"en": "Desktop",
+			"ru": "Компьютер"
+		},
 		"path": "%(template)",
 		"variants": {
 			"small": {
 				"niceName": "Small desktop (1024)" ,
 				"width": 1024,
 				"height": 768
-			},		
+			},
 			"big": {
 				"niceName": "Large desktop (1280)" ,
 				"width": 1280,
 				"height": 800
-			}				
-		}				
-	},	
+			}
+		}
+	},
 
 	"tablet": {
-		"niceName": "Tablet", 
+		"niceName": {
+			"en": "Tablet",
+			"ru": "Планшет"
+		},
 		"path": "%(template)",
 		"variants": {
 			"ipad": {
@@ -44,19 +50,20 @@
 				"niceName": "Galaxy Tab (portrait)" ,
 				"width": 600,
 				"height": 1024
-			},		
+			},
 			"galaxytab-ls": {
 				"niceName": "Galaxy Tab (landscape)" ,
 				"width": 1024,
 				"height": 600
-			} 
+			}
 		}
 	},
-	
+
 	"mobile": {
-		"niceName": { 
+		"niceName": {
 			"en": "Mobile",
-			"de": "Mobil"
+			"de": "Mobil",
+			"ru": "Мобильный телефон"
 		},
 		"path": "%(template)",
 		"variants": {
@@ -69,7 +76,7 @@
 				"niceName": "iPhone 5 (landscape)",
 				"width": 568,
 				"height": 320
-			},		
+			},
 			"iphone4": {
 				"niceName": "iPhone 3-4 (portrait)",
 				"width": 320,
@@ -79,17 +86,17 @@
 				"niceName": "iPhone 3-4 (landscape)",
 				"width": 480,
 				"height": 320
-			},			
+			},
 			"galaxys4": {
 				"niceName": "Galaxy S3/4 (portrait)",
 				"width": 380,
 				"height": 685
-			},			
+			},
 			"galaxys4-ls": {
 				"niceName": "Galaxy S3/4 (landscape)",
 				"width": 685,
 				"height": 380
-			},				
+			},
 			"andsml": {
 				"niceName": "Small Android (portrait)",
 				"width": 240,
@@ -99,8 +106,8 @@
 				"niceName": "Small Android (landscape)",
 				"width": 320,
 				"height": 240
-			} 					
+			}
 		}
-		
-	}	
+
+	}
 }

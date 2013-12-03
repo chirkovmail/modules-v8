@@ -117,4 +117,62 @@
       <Value><![CDATA[3 - Third Level]]></Value>
     </Message>
   </Bundle>
+   <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[label.BootstrapNavigation.Title]]></Key>
+      <Value><![CDATA[Заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapNavigation.Title.help]]></Key>
+      <Value><![CDATA[Заголовок не показан. Он используется, для поиска элемента в галереях.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapNavigation.NavStartLevel]]></Key>
+      <Value><![CDATA[Начальный уровень навигации]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapNavigation.NavStartLevel.help]]></Key>
+      <Value><![CDATA[Выберите уровень папки с которого должна начинаться навигация.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapNavigation.LogoLink]]></Key>
+      <Value><![CDATA[Ссылка логотипа]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapNavigation.LogoLink.help]]></Key>
+      <Value><![CDATA[Ссылка при нажатии на логотип.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapNavigation.Header]]></Key>
+      <Value><![CDATA[Заголовок HTML]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapNavigation.Header.help]]></Key>
+      <Value><![CDATA[HTML код для заголовка страницы.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapNavigation.TabGeneral]]></Key>
+      <Value><![CDATA[Общие настройки]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapNavigation.TabHeader]]></Key>
+      <Value><![CDATA[Заголовок страницы]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.navigation.navstartlevel.0]]></Key>
+      <Value><![CDATA[0 - корневой уровень]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.navigation.navstartlevel.1]]></Key>
+      <Value><![CDATA[1 - первый уровень]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.navigation.navstartlevel.2]]></Key>
+      <Value><![CDATA[2 - второй уровень]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.navigation.navstartlevel.3]]></Key>
+      <Value><![CDATA[3 - третий уровень]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>

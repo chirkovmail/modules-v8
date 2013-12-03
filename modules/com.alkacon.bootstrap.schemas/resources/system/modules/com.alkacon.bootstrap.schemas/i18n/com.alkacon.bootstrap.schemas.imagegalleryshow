@@ -77,4 +77,42 @@
       <Value><![CDATA[<strong>Neue Bilderschau</strong>, bitte bearbeiten Sie den Inhalt.]]></Value>
     </Message>
   </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[label.BootstrapImageGalleryShow.Title]]></Key>
+      <Value><![CDATA[Заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImageGalleryShow.Title.help]]></Key>
+      <Value><![CDATA[Заголовок галереи изображений. Он может быть скрыт в настройках.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImageGalleryShow.ImageFolder]]></Key>
+      <Value><![CDATA[Папка изображения]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImageGalleryShow.ImageFolder.help]]></Key>
+      <Value><![CDATA[Папка, содержащая изображения для показа.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImageGalleryShow.ImageCount]]></Key>
+      <Value><![CDATA[Изображений в строке]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImageGalleryShow.ImageCount.help]]></Key>
+      <Value><![CDATA[Количество изображений показываемых в каждой строке.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.imagegalleryshow.default.Title]]></Key>
+      <Value><![CDATA[Новая галерея изображений]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.imagegalleryshow.message.edit]]></Key>
+      <Value><![CDATA[<strong>Галерея изображений была изменена</strong>, пожалуйста обновите страницу для отображения изображений.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.imagegalleryshow.message.new]]></Key>
+      <Value><![CDATA[<strong>Новая галерея изображений</strong>, пожалуйста отредактируйте контент.]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>

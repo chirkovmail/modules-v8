@@ -165,4 +165,86 @@
       <Value><![CDATA[Bitte bearbeiten Sie den Textbaustein.]]></Value>
     </Message>
   </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[label.BootstrapTextblock.Title]]></Key>
+      <Value><![CDATA[Заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTextblock.Title.help]]></Key>
+      <Value><![CDATA[Заголовок текстового блока. Он не отображается на странице.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTextblock.Paragraph]]></Key>
+      <Value><![CDATA[Параграф]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTextblock.Paragraph.help]]></Key>
+      <Value><![CDATA[Параграф текстового блока, возможно добавить до 5 параграфов.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapParagraph.Headline]]></Key>
+      <Value><![CDATA[Заголовок параграфа]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapParagraph.Headline.help]]></Key>
+      <Value><![CDATA[Необязательный заголовок параграфа.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapParagraph.Text]]></Key>
+      <Value><![CDATA[Текст]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapParagraph.Text.help]]></Key>
+      <Value><![CDATA[Текст параграфа.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapParagraph.Image]]></Key>
+      <Value><![CDATA[Изображение]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapParagraph.Image.help]]></Key>
+      <Value><![CDATA[Изображение может быть выравнено различными способами.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapParagraph.Link]]></Key>
+      <Value><![CDATA[Ссылка]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapParagraph.Link.help]]></Key>
+      <Value><![CDATA[Ссылка, указывающая на подробную информацию, может быть также внешней ссылкой (начинающейся с <b>http://</b>).]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImage.Image]]></Key>
+      <Value><![CDATA[URI изображения]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImage.Image.help]]></Key>
+      <Value><![CDATA[Абсолютный путь к изображению.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImage.Title]]></Key>
+      <Value><![CDATA[Заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImage.Title.help]]></Key>
+      <Value><![CDATA[Заголовок изображения отображается при наведении.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImage.Description]]></Key>
+      <Value><![CDATA[Описание]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapImage.Description.help]]></Key>
+      <Value><![CDATA[Описание изображение используется в качестве альтернативного текста для изображения.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.textblock.default.Title]]></Key>
+      <Value><![CDATA[Новый текстовый блок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.textblock.default.Text]]></Key>
+      <Value><![CDATA[Пожалуйста, измените текст блока.]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>

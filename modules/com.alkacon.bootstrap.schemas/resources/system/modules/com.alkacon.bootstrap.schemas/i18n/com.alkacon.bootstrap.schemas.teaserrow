@@ -195,7 +195,7 @@
     <Message>
       <Key><![CDATA[bootstrap.teaserrow.color.orange]]></Key>
       <Value><![CDATA[Orange]]></Value>
-    </Message>
+    </Messageplease edit the conten>
     <Message>
       <Key><![CDATA[bootstrap.teaserrow.color.yellow]]></Key>
       <Value><![CDATA[Gelb]]></Value>
@@ -203,6 +203,108 @@
     <Message>
       <Key><![CDATA[bootstrap.teaserrow.message.new]]></Key>
       <Value><![CDATA[<strong>Neue Teaser Reihe</strong>, bitte bearbeiten Sie den Inhalt.]]></Value>
+    </Message>
+  </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrow.Title]]></Key>
+      <Value><![CDATA[Заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrow.Title.help]]></Key>
+      <Value><![CDATA[Заголовок строки анонсов, может быть скрыт в настройках.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrow.Item]]></Key>
+      <Value><![CDATA[Элемент]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrow.Item.help]]></Key>
+      <Value><![CDATA[Элемент строки анонсов.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrowItem.Headline]]></Key>
+      <Value><![CDATA[Заголовок анонса]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrowItem.Headline.help]]></Key>
+      <Value><![CDATA[Заголовок анонса.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrowItem.Icon]]></Key>
+      <Value><![CDATA[Значок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrowItem.Icon.help]]></Key>
+      <Value><![CDATA[Значок отображаемый под заголовком.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrowItem.Text]]></Key>
+      <Value><![CDATA[Текст]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrowItem.Text.help]]></Key>
+      <Value><![CDATA[Текст анонса.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrowItem.Link]]></Key>
+      <Value><![CDATA[Ссылка]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrowItem.Link.help]]></Key>
+      <Value><![CDATA[Необязательная ссылка, может быть внешней <strong>http://</strong>.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrowItem.Color]]></Key>
+      <Value><![CDATA[Цвет]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapTeaserrowItem.Color.help]]></Key>
+      <Value><![CDATA[Цвет фона элемента.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.default.Title]]></Key>
+      <Value><![CDATA[Новая строка анонсов]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.default.Text]]></Key>
+      <Value><![CDATA[Введите текст.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.color.default]]></Key>
+      <Value><![CDATA[По умолчанию]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.color.red]]></Key>
+      <Value><![CDATA[Красный]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.color.sea]]></Key>
+      <Value><![CDATA[Морская волна]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.color.grey]]></Key>
+      <Value><![CDATA[Серый]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.color.green]]></Key>
+      <Value><![CDATA[Зеленый]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.color.blue]]></Key>
+      <Value><![CDATA[Синий]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.color.orange]]></Key>
+      <Value><![CDATA[Оранжевый]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.color.yellow]]></Key>
+      <Value><![CDATA[Желтый]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.teaserrow.message.new]]></Key>
+      <Value><![CDATA[<strong>Новая строка анонсов</strong>, пожалуйста, отредактируйте контент.]]></Value>
     </Message>
   </Bundle>
 </XmlVfsBundles>

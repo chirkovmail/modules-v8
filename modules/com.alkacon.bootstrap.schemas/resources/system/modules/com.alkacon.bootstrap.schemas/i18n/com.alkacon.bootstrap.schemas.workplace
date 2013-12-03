@@ -317,4 +317,162 @@
       <Value><![CDATA[Erzeugt eine Liste von Dateien.]]></Value>
     </Message>
   </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[fileicon.bs-menu]]></Key>
+      <Value><![CDATA[Шаблон Bootstrap]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-menu]]></Key>
+      <Value><![CDATA[Новый Шаблон Bootstrap]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-menu]]></Key>
+      <Value><![CDATA[Содержит все типы контента, относящиеся к шаблону Bootstrap.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-jumbotron]]></Key>
+      <Value><![CDATA[Jumbotron]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-jumbotron]]></Key>
+      <Value><![CDATA[Новый Jumbotron]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-jumbotron]]></Key>
+      <Value><![CDATA[Этот компонент используется для демонстрации ключевого контента.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-textblock]]></Key>
+      <Value><![CDATA[Текстовый блок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-textblock]]></Key>
+      <Value><![CDATA[Новый Текстовый блок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-textblock]]></Key>
+      <Value><![CDATA[Текстовый блок может содержать несколько параграфов с необязательными изображениям или ссылками.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-imagegalleryshow]]></Key>
+      <Value><![CDATA[Галерея изображений]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-imagegalleryshow]]></Key>
+      <Value><![CDATA[Новая Галерея изображений]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-imagegalleryshow]]></Key>
+      <Value><![CDATA[Показывает эскизы всех изображений в определенной папке.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-imagerow]]></Key>
+      <Value><![CDATA[Строка изображений]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-imagerow]]></Key>
+      <Value><![CDATA[Новая Строка изображений]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-imagerow]]></Key>
+      <Value><![CDATA[Строка изображений показывает 3 или 4 колонки с изображениями и описанием с ссылками на более подробную информацию.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-carousel]]></Key>
+      <Value><![CDATA[Карусель]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-carousel]]></Key>
+      <Value><![CDATA[Новая Карусель]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-carousel]]></Key>
+      <Value><![CDATA[Циклическая прокрутка изображений.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-teaserrow]]></Key>
+      <Value><![CDATA[Строка анонсов]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-teaserrow]]></Key>
+      <Value><![CDATA[Новая Строка анонсов]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-teaserrow]]></Key>
+      <Value><![CDATA[Показывает 3 или 4 колонки с анонсами.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-tabs]]></Key>
+      <Value><![CDATA[Блок с вкладками]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-tabs]]></Key>
+      <Value><![CDATA[Новый Блок с вкладками]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-tabs]]></Key>
+      <Value><![CDATA[Блок с несколькими вкладками.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-flexible]]></Key>
+      <Value><![CDATA[''Гибкий'' контент]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-flexible]]></Key>
+      <Value><![CDATA[Новый ''Гибкий'' контент]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-flexible]]></Key>
+      <Value><![CDATA[Используйте для вставки HTML-кода, JavaScript изображений или текста.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-slider]]></Key>
+      <Value><![CDATA[Слайдер изображений]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-slider]]></Key>
+      <Value><![CDATA[Новый Слайдер изображений]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-slider]]></Key>
+      <Value><![CDATA[Используйте чтобы создать настраиваемый слайдер изображений.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-blog]]></Key>
+      <Value><![CDATA[Запись блога]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-blog]]></Key>
+      <Value><![CDATA[Новая Запись блога]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-blog]]></Key>
+      <Value><![CDATA[Запись в блоге с датой, параграфами и изображениями.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-navigation]]></Key>
+      <Value><![CDATA[Навигация]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-navigation]]></Key>
+      <Value><![CDATA[Новая Навигация]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-navigation]]></Key>
+      <Value><![CDATA[Показывает основную навигацию с настраиваемым заголовком и иерархической навигацией или боковой навигацией.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileicon.bs-list]]></Key>
+      <Value><![CDATA[Настраиваемый список]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[title.newbs-list]]></Key>
+      <Value><![CDATA[Новый настраиваемый список]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[desc.bs-list]]></Key>
+      <Value><![CDATA[Показывает список ресурсов.]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>

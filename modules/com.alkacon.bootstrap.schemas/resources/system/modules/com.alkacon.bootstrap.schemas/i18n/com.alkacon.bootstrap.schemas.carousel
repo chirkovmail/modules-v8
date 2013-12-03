@@ -109,4 +109,58 @@
       <Value><![CDATA[<strong>Neues Karussell</strong>, bitte bearbeiten Sie das Element.]]></Value>
     </Message>
   </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[label.BootstrapCarousel.Title]]></Key>
+      <Value><![CDATA[Заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapCarousel.Title.help]]></Key>
+      <Value><![CDATA[Заголовок карусели может быть скрыты в настройках.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapCarousel.Item]]></Key>
+      <Value><![CDATA[Компонент]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapCarousel.Item.help]]></Key>
+      <Value><![CDATA[Компонент карусели.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapCarouselItem.Image]]></Key>
+      <Value><![CDATA[Изображение]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapCarouselItem.Image.help]]></Key>
+      <Value><![CDATA[Изображение для показа]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapCarouselItem.Headline]]></Key>
+      <Value><![CDATA[Заголовок подписи]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapCarouselItem.Headline.help]]></Key>
+      <Value><![CDATA[Необязательный заголовок подписи изображения.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapCarouselItem.Text]]></Key>
+      <Value><![CDATA[Текст подписи]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapCarouselItem.Text.help]]></Key>
+      <Value><![CDATA[Текст подписи показываемый в наложении.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.carousel.default.Title]]></Key>
+      <Value><![CDATA[Новая карусель]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.carousel.default.Text]]></Key>
+      <Value><![CDATA[Пожалуйста, введите текст подписи.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.carousel.message.new]]></Key>
+      <Value><![CDATA[<strong>Новая карусель</strong>, пожалуйста отредактируйте контент.]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>
