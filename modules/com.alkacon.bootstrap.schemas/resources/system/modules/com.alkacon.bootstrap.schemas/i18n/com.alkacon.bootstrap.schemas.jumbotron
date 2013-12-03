@@ -101,4 +101,54 @@
       <Value><![CDATA[Bitte geben Sie einen Text für dieses Jumbotron ein.]]></Value>
     </Message>
   </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[label.BootstrapJumbotron.Title]]></Key>
+      <Value><![CDATA[Заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapJumbotron.Title.help]]></Key>
+      <Value><![CDATA[Заголовок jumbotron.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapJumbotron.Text]]></Key>
+      <Value><![CDATA[Текст]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapJumbotron.Text.help]]></Key>
+      <Value><![CDATA[Текст jumbotron.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapJumbotron.Link]]></Key>
+      <Value><![CDATA[Ссылка]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapJumbotron.Link.help]]></Key>
+      <Value><![CDATA[необязательная ссылка, отображаемая ниже текста jumbotron.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapLink.Text]]></Key>
+      <Value><![CDATA[Текст ссылки]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapLink.Text.help]]></Key>
+      <Value><![CDATA[Текст связанный с URI.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapLink.URI]]></Key>
+      <Value><![CDATA[URI ссылки]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapLink.URI.help]]></Key>
+      <Value><![CDATA[Ссылка может быть внутренней или внешней. Внешняя ссылка должна начинаться <b>http://...</b>.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.jumbotron.default.Title]]></Key>
+      <Value><![CDATA[Новый Jumbotron]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.jumbotron.default.Text]]></Key>
+      <Value><![CDATA[Пожалуйста, введите текст для jumbotron.]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>

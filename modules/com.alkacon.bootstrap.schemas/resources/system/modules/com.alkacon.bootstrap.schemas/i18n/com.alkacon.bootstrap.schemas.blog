@@ -157,4 +157,82 @@
       <Value><![CDATA[Weiter lesen]]></Value>
     </Message>
   </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Title]]></Key>
+      <Value><![CDATA[Заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Title.help]]></Key>
+      <Value><![CDATA[Заголовок записи блога]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.blog.default.Title]]></Key>
+      <Value><![CDATA[Новая запись в блоге]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Date]]></Key>
+      <Value><![CDATA[Дата]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Date.help]]></Key>
+      <Value><![CDATA[Дата записи блога]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Paragraph]]></Key>
+      <Value><![CDATA[Параграф]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Paragraph.help]]></Key>
+      <Value><![CDATA[Параграф записи блога.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Category]]></Key>
+      <Value><![CDATA[Категории]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Category.help]]></Key>
+      <Value><![CDATA[Назначает категории для записи блога.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.AuthorTab]]></Key>
+      <Value><![CDATA[Автор]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Author]]></Key>
+      <Value><![CDATA[Автор]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Author.help]]></Key>
+      <Value><![CDATA[Создатель записи блога.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.AuthorMail]]></Key>
+      <Value><![CDATA[E-Mail]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.AuthorMail.help]]></Key>
+      <Value><![CDATA[e-mail создателя записи блога.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Availability]]></Key>
+      <Value><![CDATA[Доступность]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.Availability.help]]></Key>
+      <Value><![CDATA[Доступность записи блога.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapBlog.General]]></Key>
+      <Value><![CDATA[Основные]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.blog.default.Text]]></Key>
+      <Value><![CDATA[Пожалуйста, отредактируйте текст на запись в блоге.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.blog.message.readmore]]></Key>
+      <Value><![CDATA[читать дальше]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>

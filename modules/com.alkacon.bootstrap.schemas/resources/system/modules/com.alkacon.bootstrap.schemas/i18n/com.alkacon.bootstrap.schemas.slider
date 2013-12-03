@@ -381,4 +381,194 @@
       <Value><![CDATA[<strong>Der Rotator wurde geändert</strong>,bitte laden Sie zum Anzeigen die Seite neu.]]></Value>
     </Message>
   </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.Title]]></Key>
+      <Value><![CDATA[Заголовок]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.Title.help]]></Key>
+      <Value><![CDATA[Заголовок слайдера. Может быть скрыт в настройках.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.Duration]]></Key>
+      <Value><![CDATA[Продолжительность]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.Duration.help]]></Key>
+      <Value><![CDATA[Время которое слайд остается на экране в секундах.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.Width]]></Key>
+      <Value><![CDATA[Ширина]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.Width.help]]></Key>
+      <Value><![CDATA[Базовая ширина слайдера в пикселях.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.Height]]></Key>
+      <Value><![CDATA[Высота]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.Height.help]]></Key>
+      <Value><![CDATA[Базовая ширина слайдера в пикселях.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.Item]]></Key>
+      <Value><![CDATA[Элемент]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.Item.help]]></Key>
+      <Value><![CDATA[Описание элемента]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Image]]></Key>
+      <Value><![CDATA[Изображение]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Image.height]]></Key>
+      <Value><![CDATA[Главное изображение элемента]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Effect]]></Key>
+      <Value><![CDATA[Переход]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Effect.help]]></Key>
+      <Value><![CDATA[Эффект перехода слайда.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Slots]]></Key>
+      <Value><![CDATA[Количество слотов]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Slots.help]]></Key>
+      <Value><![CDATA[Количество слотов на которое делится слайд.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Delay]]></Key>
+      <Value><![CDATA[Задержка]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Delay.help]]></Key>
+      <Value><![CDATA[Значение задержки слайда.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Link]]></Key>
+      <Value><![CDATA[Ссылка]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Link.help]]></Key>
+      <Value><![CDATA[Необязательная ссылка, расположенная на всём слайде.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Caption]]></Key>
+      <Value><![CDATA[Подпись]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderItem.Caption.help]]></Key>
+      <Value><![CDATA[Подпись контейнера, которая может быть настроены с помощью CSS, классов для начальной анимации и некоторых типов данных.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Image]]></Key>
+      <Value><![CDATA[Изображение]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Image.help]]></Key>
+      <Value><![CDATA[Изображение в подписи слайда.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Text]]></Key>
+      <Value><![CDATA[Текст]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Text.help]]></Key>
+      <Value><![CDATA[Необязательный текст подписи.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Class]]></Key>
+      <Value><![CDATA[Класс анимации]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Class.help]]></Key>
+      <Value><![CDATA[Устанавливает класс анимации для подписи. Пример: SFT - Короткое сверху, LFR - Длинное справа.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.PosX]]></Key>
+      <Value><![CDATA[Позиция X]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.PosX.help]]></Key>
+      <Value><![CDATA[Горизонтальное положение в стандартном размере экрана.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.PosY]]></Key>
+      <Value><![CDATA[Позиция Y]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.PosY.help]]></Key>
+      <Value><![CDATA[Вертикальное положение в стандартном размере экрана.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Start]]></Key>
+      <Value><![CDATA[Задержка показа]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Start.help]]></Key>
+      <Value><![CDATA[Через сколько милисекунд подпись начинает отображаться.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Speed]]></Key>
+      <Value><![CDATA[Скорость]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Speed.help]]></Key>
+      <Value><![CDATA[Продолжительность анимации в милисекундах.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Easing]]></Key>
+      <Value><![CDATA[Эффект]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.Easing.help]]></Key>
+      <Value><![CDATA[Специальный Easing эффект для анимации.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.End]]></Key>
+      <Value><![CDATA[Время окончания]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.End.help]]></Key>
+      <Value><![CDATA[Через сколько милисекунд подпись начиннает скрываться.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.EndEasing]]></Key>
+      <Value><![CDATA[Эффект скрытия]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSliderCaption.EndEasing.help]]></Key>
+      <Value><![CDATA[Специальный Easing эффект для завершения анимации.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.TabGeneral]]></Key>
+      <Value><![CDATA[Основные настройки]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[label.BootstrapSlider.TabItems]]></Key>
+      <Value><![CDATA[Элементы]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.slider.default.Title]]></Key>
+      <Value><![CDATA[Новый слайдер]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.slider.message.new]]></Key>
+      <Value><![CDATA[<strong>Новый слайдер</strong>, пожалуйста, отредактируйте контент.]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.slider.message.edit]]></Key>
+      <Value><![CDATA[<strong>Слайдер был изменен</strong>, пожалуйста, перезагрузите страницу для отображения слайдера.]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>

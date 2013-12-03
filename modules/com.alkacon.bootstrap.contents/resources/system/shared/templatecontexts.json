@@ -1,13 +1,17 @@
 {
 	"desktop": {
-		"niceName": "Desktop",
+		"niceName": {
+			"en": "Desktop",
+			"ru": "Компьютер"
+		},
 		"path": "/system/modules/com.alkacon.bootstrap.formatters/templates/bootstrap-page.jsp"
 	},
 
 	"mobile": {
 		"niceName": { 
 			"en": "Mobile",
-			"de": "Mobil"
+			"de": "Mobil",
+			"ru": "Мобильный телефон"
 		},
 		"path": "/system/modules/com.alkacon.bootstrap.formatters/templates/bootstrap-page.jsp",
 		"variants": {
@@ -56,7 +60,10 @@
 	},
 
 	"tablet": {
-		"niceName": "Tablet", 
+		"niceName": {
+			"en": "Tablet",
+			"ru": "Планшет"
+		},
 		"path": "/system/modules/com.alkacon.bootstrap.formatters/templates/bootstrap-page.jsp",
 		"variants": {
 			"ipad": {

@@ -77,4 +77,42 @@
       <Value><![CDATA[Angemeldet als]]></Value>
     </Message>
   </Bundle>
+  <Bundle language="ru">
+    <Message>
+      <Key><![CDATA[bootstrap.login.message.failed]]></Key>
+      <Value><![CDATA[Ошибка входа]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.login.label.username]]></Key>
+      <Value><![CDATA[Имя]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.login.label.password]]></Key>
+      <Value><![CDATA[Пароль]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.login.label.login]]></Key>
+      <Value><![CDATA[Войти]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.login.label.logoff]]></Key>
+      <Value><![CDATA[Выйти]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.login.title.loggedoff]]></Key>
+      <Value><![CDATA[Войти в OpenCms]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.login.message.loggedoff]]></Key>
+      <Value><![CDATA[Пожалуйста введите имя пользователя и пароль]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.login.title.loggedin]]></Key>
+      <Value><![CDATA[Вы вошли в OpenCms]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[bootstrap.login.message.loggedin]]></Key>
+      <Value><![CDATA[Вы вошли как]]></Value>
+    </Message>
+  </Bundle>
 </XmlVfsBundles>
