@@ -1,6 +1,6 @@
 <%@page buffer="none" session="false" trimDirectiveWhitespaces="true"%>
 <%@ taglib prefix="cms" uri="http://www.opencms.org/taglib/cms"%>
-<cms:include file="%(link.weak:/system/modules/com.alkacon.bootstrap.formatters/search/context.js:be6d941f-46f9-11e3-9436-000c29d28104)"/>
-<script type="text/javascript" src="<cms:link>%(link.weak:/system/modules/com.alkacon.bootstrap.formatters/search/dictionary.js:d2f20f93-1370-11e2-b821-2b1b08a6835d)</cms:link>"></script>
-<script type="text/javascript" src="<cms:link>%(link.weak:/system/modules/com.alkacon.bootstrap.formatters/search/configuration.js:e3fb6d55-0e64-11e2-8968-2b1b08a6835d)</cms:link>"></script>
+<cms:include file="%(link.weak:/system/modules/ru.itdt.opencms.bootstrap.formatters/search/context.js:22476a2f-996c-11e3-b8c6-001a4d467669)"/>
+<script type="text/javascript" src="<cms:link>%(link.weak:/system/modules/ru.itdt.opencms.bootstrap.formatters/search/dictionary.js:224c2523-996c-11e3-b8c6-001a4d467669)</cms:link>?__locale=${cms.locale}"></script>
+<script type="text/javascript" src="<cms:link>%(link.weak:/system/modules/ru.itdt.opencms.bootstrap.formatters/search/configuration.js:2242af3b-996c-11e3-b8c6-001a4d467669)</cms:link>?__locale=${cms.locale}"></script>
 <%= org.opencms.gwt.CmsGwtActionElement.createNoCacheScript("search", "9.0.0") %>
